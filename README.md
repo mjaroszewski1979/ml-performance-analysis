@@ -1,28 +1,26 @@
-1. Project title
+## Project title
 ML-based Performance Test Analysis for Predicting System Failures
-2. Problem
+## Problem
 performance tests generate large amount of data
 traditional reports are reactive
 goal: predictive layer for QA insights
-3. Solution
+## Solution
 parsing Gatling-like reports
 feature engineering
 ML model predicting KO risk
-4. Architecture
+## Architecture
 Performance Logs → Parser → Feature Engineering → ML Model → Prediction
-5. Tech stack
+## Tech stack
 Python
 CatBoost
 Scikit-learn
 Jupyter
-6. Key insight
+## Key insight
 
-
-7. How to run
+## How to run
 pip install -r requirements.txt
 jupyter notebook
-8. Important note about data privacy
-
+## Important note about data privacy
 
 No production or sensitive data is included in this repository.
 All experiments are performed on synthetic or anonymized data due to confidentiality constraints.
