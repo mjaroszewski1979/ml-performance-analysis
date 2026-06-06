@@ -1,3 +1,5 @@
+![caption](https://github.com/mjaroszewski1979/ml-performance-analysis/blob/main/gatling_load_report.jpg)
+
 # ML-Based Performance Test Analysis — Predicting System Behaviour From Gatling Test Data
 
 ## Overview
